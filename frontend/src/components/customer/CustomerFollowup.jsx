@@ -339,7 +339,7 @@ const CustomerFollowup = () => {
         </Text>
       ) : (
         <Table variant="striped" colorScheme="teal">
-          <Thead>
+          <Thead bg={"blue.400"}>
             <Tr>
               <Th>Client Name</Th>
               <Th>Company Name</Th>

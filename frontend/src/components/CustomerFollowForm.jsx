@@ -171,7 +171,7 @@ const CustomerFollowForm = () => {
                   variant="outline"
                 >
                   <option value="Pending">Pending</option>
-                  <option value="Complete">Complete</option>
+                  <option value="Completed">Completed</option>
                   <option value="Rejected">Rejected</option>
                 </Select>
               </FormControl>

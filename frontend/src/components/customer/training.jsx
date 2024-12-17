@@ -77,7 +77,7 @@ const Training = () => {
           </Flex>
       <TableContainer>
         <Table variant="striped" colorScheme="teal">
-          <Thead>
+          <Thead bg={"blue.400"}>
             <Tr>
               <Th>Full Name</Th>
               <Th>Email</Th>
